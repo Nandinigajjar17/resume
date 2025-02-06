@@ -175,6 +175,11 @@ span.navbar-toggler-icon {
     display: flex;
     flex-direction: row;
 }
+.box h2{
+    font-size:40px;
+    font-weight:700;
+}
+    
 
 .icon-2 .material-symbols-outlined {
     color: #DEDEEA;
