@@ -561,6 +561,21 @@ body[data-aos-easing=ease] [data-aos] {
     font-size: 60px !important;
     color: #bbbac7;
 }
+.bootstraplogo:hover{
+    color: #702ff1;
+}
+.youtubelogo:hover{
+    color: red;
+    
+}
+
+.csslogo:hover{
+    color: #1572B6 !important; /* Change CSS3 icon color */
+
+}
+.htmllogo:hover{
+    color: #EF652A  !important;
+}
 
 
 
